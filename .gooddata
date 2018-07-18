@@ -1,6 +1,6 @@
 {
-  "username": "your.name@gooddata.com",
+  "username": "bear@gooddata.com",
   "password": "secret",
-  "server": "https://staging2-lcm-prod.intgdc.com",
+  "server": "https://ruby-workshop.na.intgdc.com",
   "verify_ssl": false
 }
