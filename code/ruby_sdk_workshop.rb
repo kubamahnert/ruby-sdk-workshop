@@ -95,7 +95,7 @@ dashboard.save
 # reopening classes
 class GoodData::Dashboard
   def save
-    puts "Do you really want to delete #{title}?"
+    puts "Do you really want to save #{title}?"
     input = gets.chomp
     super if input == 'yes'
   end
