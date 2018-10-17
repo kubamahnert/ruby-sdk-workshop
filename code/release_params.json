@@ -1,0 +1,19 @@
+{
+  "organization": "default",
+  "CLIENT_GDC_HOSTNAME": "pgd-ruby-sdk-workshop.na.intgdc.com",
+  "GDC_LOG_LEVEL": "debug",
+  "gd_encoded_params": {
+    "GDC_USERNAME": "bear@gooddata.com",
+    "GDC_PASSWORD": "tajneheslo",
+    "input_source": {
+      "type": "web",
+      "url": "https://gist.githubusercontent.com/kubamahnert/11491e4e31796addaa0b1dd41fb3c5c2/raw/bd515b0de4cabc5e81da0713706ca13f6b33d034/workspace_table"
+    },
+    "DATA_PRODUCT": "jmn",
+    "SRC_PID": "dp11ydali9r1g766fqhbxme1le95gauh",
+    "TOKENS": {
+      "pg": "pgroup2"
+    }
+  },
+  "strict": "true"
+}

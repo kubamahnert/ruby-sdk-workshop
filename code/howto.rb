@@ -1,0 +1,1 @@
+res = release_brick config_path: './code/release_params.json'
